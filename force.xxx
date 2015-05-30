@@ -2,5 +2,12 @@
 wypelniam trescia
 plik w galazka 
 
-dfdd
+
+git clone git@github.com:RadekBrzostowski/repo_martyny.git
+# to wyzej bedzie skutkowało brakiem koniecznosci wpisywania hasla po dodaniu kluczy w git.comie
+
+# natomiast to ponizej
+git clone https://github.com/RadekBrzostowski/repo_martyny/
+# git bedzie krzyczal o haslo
+git push
 
